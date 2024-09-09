@@ -1,5 +1,7 @@
 ### Dashboard - GIF Logo followed by Messages
-This Dashboard displays the "DUCK WORKS" lab logo followed by asset reporting messages.
+This Dashboard displays the Duck Works lab logo followed by messages (e.g. current value of gold assets and percent value increase). This dashboard works on the Adafruit 64x64 pixel matrix display with the MatrixPortal M4 uc. 
+
+![](https://github.com/dev-lishy/DuckWorksDashboard/blob/main/duckWalk.gif)
 
 ### Convert black and white gif to colorized using Image Magick cmd line
 
