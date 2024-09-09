@@ -1,0 +1,4 @@
+# To auto-connect to WiFi
+CIRCUITPY_WIFI_SSID=""
+CIRCUITPY_WIFI_PASSWORD=""
+GOLD_API_URL=""
