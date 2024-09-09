@@ -7,7 +7,7 @@ This Dashboard displays the Duck Works lab logo followed by messages (e.g. curre
 
 https://imagemagick.org/Usage
 
-convert duckWalkLarge.gif -coalesce -resize 64x64\! -level 10%,90% -colorize 90,85,170 duckWalk.gif
+```convert duckWalkLarge.gif -coalesce -resize 64x64\! -level 10%,90% -colorize 90,85,170 duckWalk.gif```
 
 ### Resources
 
